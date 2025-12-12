@@ -143,6 +143,11 @@ sequenceDiagram
     Trader-->>TF: Cycle complete
 ```
 
+<img width="1918" height="976" alt="Screenshot 2025-11-20 213243" src="https://github.com/user-attachments/assets/0305ffaa-7631-4ff9-9dbd-0635e7a1205d" />
+
+<img width="1905" height="884" alt="Screenshot 2025-11-20 213308" src="https://github.com/user-attachments/assets/2988b0d3-6134-4de7-99b4-4d537103fb29" />
+
+
 ## Key Components
 
 ### 1. **Trader Agents** (`traders.py`)
